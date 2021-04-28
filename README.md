@@ -1,1 +1,1 @@
-# gerenciador_usuario
+# usei o bootstrap para deixar melhor na parte das fonte e responsivo, usei o maria db como banco, pelo xampp.

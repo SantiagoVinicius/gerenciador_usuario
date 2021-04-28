@@ -1,0 +1,13 @@
+.cadastro, .nome, .senha{
+    border: 1px solid black;
+    background:whitesmoke;
+}
+
+body{
+    margin-right: 25%;
+    margin-left: 25%;
+    background: linear-gradient(to left top, #ffa500, #df5119);
+}
+
+
+    
